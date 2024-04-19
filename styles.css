@@ -1,11 +1,11 @@
 body {
     margin: 0px;
-    background-image: url(pictures/abstract-background-colors-texture-wallpaper-preview.jpg);
+    background-image: url(abstract-background-colors-texture-wallpaper-preview.jpg);
 }
 .upper {
     height: 150px;
     width: 100%;
-    background-image: url(pictures/ScreenHunter\ 573.png);
+    background-image: url(ScreenHunter\ 573.png);
     display: flex;
     justify-content: center;
 }
